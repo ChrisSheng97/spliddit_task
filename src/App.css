@@ -12,3 +12,17 @@ hr{
 p{
   font-size: 12px;
 }
+
+.buttonMenu{
+  display: block;
+}
+.info{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.report{
+  text-align: center;
+  width: 90%;
+}
